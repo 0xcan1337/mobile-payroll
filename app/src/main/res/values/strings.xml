@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sinav calisma</string>
+    <array name="unvanlar">
+        <item>Ünvan Seçiniz </item>
+        <item>Hizmetli </item>
+        <item>Memur </item>
+        <item>Şef </item>
+        <item>Müdür </item>
+
+    </array>
+</resources>
